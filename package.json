@@ -1,0 +1,31 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/Venupro145/auction-front#readme",
+  "bugs": {
+    "url": "https://github.com/Venupro145/auction-front/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Venupro145/auction-front.git"
+  },
+  "license": "ISC",
+  "author": "venu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "cros": "^1.0.1",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.11.0"
+  },
+  "devDependencies": {}
+}
