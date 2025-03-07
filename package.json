@@ -3,17 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://github.com/Venupro145/auction-front#readme",
-  "bugs": {
-    "url": "https://github.com/Venupro145/auction-front/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Venupro145/auction-front.git"
   },
   "license": "ISC",
   "author": "venu",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
